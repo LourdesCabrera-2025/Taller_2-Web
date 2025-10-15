@@ -1,0 +1,12 @@
+[
+  { "id": "101", "nameBook": "BIlly Elliot",   "isActive": true  },
+  { "id": "102", "nameBook": "La Divina Comedia",      "isActive": false },
+  { "id": "103", "nameBook": "La Odisea",      "isActive": true  },
+  { "id": "104", "nameBook": "Calculo I",   "isActive": false },
+  { "id": "105", "nameBook": "Calculo II",      "isActive": true  },
+  { "id": "106", "nameBook": "Calculo III",    "isActive": false },
+  { "id": "107", "nameBook": "Death Note",         "isActive": true  },
+  { "id": "108", "nameBook": "Romeo y Julieta",        "isActive": false },
+  { "id": "109", "nameBook": "Bladerunner",      "isActive": true  },
+  { "id": "110", "nameBook": "The Last of Us",  "isActive": true }
+]
